@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-06-25T18:42:07 GMT" name="Default suite" finished-at="2021-06-25T18:42:15 GMT" duration-ms="7741">
+    <groups>
+    </groups>
+    <test started-at="2021-06-25T18:42:07 GMT" name="Default test" finished-at="2021-06-25T18:42:15 GMT" duration-ms="7741">
+      <class name="TestMain">
+        <test-method is-config="true" signature="conf()[pri:0, instance:TestMain@14555e0a]" started-at="2021-06-25T18:42:07 GMT" name="conf" finished-at="2021-06-25T18:42:14 GMT" duration-ms="6336" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- conf -->
+        <test-method signature="TestConnexion()[pri:0, instance:TestMain@14555e0a]" started-at="2021-06-25T18:42:14 GMT" name="TestConnexion" finished-at="2021-06-25T18:42:15 GMT" duration-ms="993" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestConnexion -->
+        <test-method is-config="true" signature="End()[pri:0, instance:TestMain@14555e0a]" started-at="2021-06-25T18:42:15 GMT" name="End" finished-at="2021-06-25T18:42:15 GMT" duration-ms="346" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- End -->
+      </class> <!-- TestMain -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
